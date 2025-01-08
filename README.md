@@ -29,7 +29,7 @@ Defination of extracted features can be found in `FEATURES.md`
 7. To train Random Forest and Gradient Boost to predict which user(s) is/are likely to churn, run `model.ipynb`
 8. To train Random Forest to predict which user(s) risk category, run `risk_category.ipynb`
 
-## Bried Business Recommednations and Campaigns
+## Brief Business Recommednations and Campaigns
 ![business-recommendations-mermaid](https://github.com/shoryasethia/e-commerce-churn/blob/main/business-recommendations.png)
 
 ## References
