@@ -32,6 +32,9 @@ Defination of extracted features can be found in `FEATURES.md`
 ## Bried Business Recommednations and Campaigns
 ![business-recommendations-mermaid](https://github.com/shoryasethia/e-commerce-churn/blob/main/business-recommendations.png)
 
+## References
+Helpful resources like papers and articles are added in work report, but some of them are added in `papers/` as well
+
 > For any questions, feel free to open an [issue](https://github.com/shoryasethia/e-commerce-churn/issues) or reach out at [shoryasethia4may@gmail.com](mailto:shoryasethia4may@gmail.com)
 
 
